@@ -1,7 +1,7 @@
 # Repositorio de Backend G11
 
 <p align ="center">
-    <img src="https://assets.website-files.com/624b2bd5b7be89e20…9/624b37b08ca87609798e03a6_codigo-logo-blanco.svg">
+    <img src="https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Bilgewater_Crest.png/revision/latest?cb=20161117042614">
 </p>
 
 Este sera el repositorio del curso para el modulo de Backend
